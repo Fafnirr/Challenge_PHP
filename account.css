@@ -1,0 +1,28 @@
+#mainContainer{
+    margin-left: 3em;
+}
+
+#titleContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#logOut{
+    margin-top: 1em;
+}
+
+#addCitation{
+    margin-left: 40em;
+    margin-bottom: 2em;
+}
+
+.card{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.del{
+    margin-right: 1em;
+    width: 8em;
+    margin-bottom: 1em;
+}
